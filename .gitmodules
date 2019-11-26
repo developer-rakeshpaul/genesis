@@ -1,0 +1,6 @@
+[submodule "genesis-hasura"]
+	path = genesis-hasura
+	url = https://github.com/developer-rakeshpaul/genesis-hasura.git
+[submodule "genesis-nestjs-starter"]
+	path = genesis-nestjs-starter
+	url = https://github.com/developer-rakeshpaul/genesis-nestjs-starter.git
