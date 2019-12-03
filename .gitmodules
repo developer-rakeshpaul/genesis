@@ -4,3 +4,6 @@
 [submodule "genesis-nestjs-starter"]
 	path = genesis-nestjs-starter
 	url = https://github.com/developer-rakeshpaul/genesis-nestjs-starter.git
+[submodule "genesis-nextjs-starter"]
+	path = genesis-nextjs-starter
+	url = https://github.com/developer-rakeshpaul/genesis-nextjs-starter.git

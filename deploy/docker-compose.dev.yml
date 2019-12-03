@@ -35,7 +35,7 @@ services:
     labels:
       - "traefik.enable=false"
   hasura:
-    image: hasura/graphql-engine:v1.0.0-beta.10
+    image: hasura/graphql-engine:latest
     container_name: genesis_hasura
     ports:
       - ${HASURA_GRAPHQL_SERVER_PORT}:${HASURA_GRAPHQL_SERVER_PORT}
