@@ -53,6 +53,7 @@ services:
       # HASURA_GRAPHQL_AUTH_HOOK: ${HASURA_GRAPHQL_AUTH_HOOK:-http://localhost:4000/auth/hasura}
       # HASURA_GRAPHQL_AUTH_HOOK_MODE: ${HASURA_GRAPHQL_AUTH_HOOK_MODE:-POST}
       HASURA_GRAPHQL_CORS_DOMAIN: ${HASURA_GRAPHQL_CORS_DOMAIN:-https://*.genesis.in,http://*.genesis.in,http://localhost:5000,http://localhost:3000,http://localhost:9695}
+      HASURA_GRAPHQL_CUSTOM_API: ${HASURA_GRAPHQL_CUSTOM_API:-http://localhost:4000/graphql}
 
     labels:
       - "traefik.port=8080"
