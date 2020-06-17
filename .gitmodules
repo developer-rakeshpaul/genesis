@@ -1,9 +1,9 @@
-[submodule "genesis-hasura"]
-	path = genesis-hasura
+[submodule "hasura"]
+	path = hasura
 	url = https://github.com/developer-rakeshpaul/genesis-hasura.git
-[submodule "genesis-nestjs-starter"]
-	path = genesis-nestjs-starter
+[submodule "nestjs"]
+	path = nestjs
 	url = https://github.com/developer-rakeshpaul/genesis-nestjs-starter.git
-[submodule "genesis-nextjs-starter"]
-	path = genesis-nextjs-starter
+[submodule "nextjs"]
+	path = nextjs
 	url = https://github.com/developer-rakeshpaul/genesis-nextjs-starter.git
